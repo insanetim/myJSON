@@ -1,5 +1,5 @@
 {
-  "categories" : [
+  "services" : [
     {"title": "Category_1", "value": 100},
     {"title": "Category_2", "value": 500},
     {"title": "Category_3", "value": 100500}
